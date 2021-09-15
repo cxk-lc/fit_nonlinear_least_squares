@@ -106,7 +106,7 @@ def mapping(self, fit_res, data_x, data_y):
 
 #### 生成的图形
 
-![test_fit](D:\Workspace\test\fit_nonlinear_least_squares\Readme_imgs\test_fit.jpg)
+![test_fit](Readme_imgs/test_fit.jpg)
 
 ## 完整代码如下
 
