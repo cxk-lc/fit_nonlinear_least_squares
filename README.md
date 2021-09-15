@@ -1,4 +1,4 @@
-<h1 align="center">用Scipy库中<code>least_squares</code>函数求解变量有界的非线性最小二乘问题</h1>
+<h1 align="center">使用Python的Scipy库中<code>least_squares</code>函数求解变量有界的非线性最小二乘问题</h1>
 
 最近接触到了`Scipy`中`optimize`模块的一些函数，`optimize`模块中提供了很多数值优化算法，其中，最小二乘法可以说是最经典的数值优化技术了， 通过最小化误差的平方来寻找最符合数据的曲线。但是由于我这边的需求是一个有界函数的拟合，所以网上资料介绍比较多的`leastsq`函数就不太适用。
 
